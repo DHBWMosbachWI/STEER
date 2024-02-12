@@ -1,0 +1,2 @@
+regexes = [.*\.com, .*\.net, .*\.de, .*\.org]
+sem_type = internet.website

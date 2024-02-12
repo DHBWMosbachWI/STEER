@@ -1,0 +1,2 @@
+predefined_elements = [distritais, scottish premier league, premier league, chinese super league, nfl, nhl, nba, league one, league two, uefa cup, european cup, first division, second division, mlb, serie a, serie b, bundesliga, 2. bundesliga]
+sem_type = sports.sports_league

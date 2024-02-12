@@ -1,0 +1,2 @@
+predefined_elements = [drama, science fiction, sci-fi, romance, action, war, horror,crime, comedy, comedy drama, family film, biography, documentary film, thriller]
+sem_type = film.film_genre

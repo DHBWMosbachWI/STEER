@@ -1,0 +1,2 @@
+regexes = [^[\w]+\s[\w]+$]
+sem_type = people.person

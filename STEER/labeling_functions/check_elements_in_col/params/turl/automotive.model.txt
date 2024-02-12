@@ -1,0 +1,2 @@
+predefined_elements = [porsche carrera, chevrolet corvette, chevrolet corvette c6.r,ford au falcon, ford ba falcon, vx commodore,holden vz commodoreford mustang, chevrolet camaro, jaguar xkr,nissan gt-r, nissan gt-r gt3, toyota celica, lamborghini gallardo,seat león, mitsubishi lancer evo ix, škoda fabia s2000,ford fiesta, volkswagen polo, opel corsa, renault clio,peugeot 207, toyota yaris, citroen c3, škoda fabia, fiat punto,seat ibiza, audi a1, hyundai i20]
+sem_type = automotive.model

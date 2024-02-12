@@ -1,0 +1,2 @@
+regexes = [.*class aircraft carrier*, .*class battlecruiser*,.*class frigate*, .*class destroyer]
+sem_type = boats.ship_class

@@ -1,0 +1,2 @@
+regexes = [best*, worst*]
+sem_type = award.award_category

@@ -1,0 +1,2 @@
+predefined_elements = [disco, hip hop, techno, drum'n'bass, house, trance, soul,r&b, ballad, reggae, jazz, jazz electro, heavy metal,hard rock, country, dance, progressive rock, pop, pop rock, blues, blues rock]
+sem_type = music.genre

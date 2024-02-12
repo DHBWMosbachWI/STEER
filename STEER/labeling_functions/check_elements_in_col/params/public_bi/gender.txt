@@ -1,0 +1,2 @@
+predefined_elements = [m,f,u]
+sem_type = gender

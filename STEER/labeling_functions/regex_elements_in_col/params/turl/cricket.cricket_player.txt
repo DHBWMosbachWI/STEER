@@ -1,0 +1,2 @@
+regexes = [.*Don Bradman*,.*Sachin Tendulkar*,.*Garfield Sobers*,.*Imran Khan*,.*Ian Botham*,.*Shane Warne*,.*Viv Richards*,.*Brian Lara*,.*Jaques Kallis*,.*MS Dhoni*,.*Wasim Akram*,.*Virat Kohli*,.*James Anderson*,.*Alastair Cook*,.*Muttiah Muralitharan*,.*Kumar Sangakkara*,.*Kapil Dev*,.*Richard Hadlee*,.*Adam Gilchrist*,.*Chris Gayle*,.*Glenn McGrath*,.*Ricky Ponting*,.*Steve Waugh*,.*Rahul Dravid*,.*Sunil Gavaskar*,.*Shoaib Akhtar*,.*Curtly Ambrose*,.*Mahela Jayawardene*,.*Dale Steyn*,.*Allan Donald*]
+sem_type = cricket.cricket_player

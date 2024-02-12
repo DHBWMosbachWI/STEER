@@ -1,0 +1,3 @@
+#firstregexes = [.*Regime*, .*Infantry*,.*Brigade*,.*Battalion*,.*Squadron*,.*Sharpshooters*, .*Artillery*, .*Fighter*]
+regexes = [.*Regime*, .*Infantry*,.*Brigade*,.*Battalion*,.*Squadron*,.*Sharpshooters*, .*Artillery*]
+sem_type = military.military_unit

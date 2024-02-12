@@ -1,0 +1,2 @@
+regexes = [^\W*(\w+\b\W*){6\,}$]
+sem_type = description

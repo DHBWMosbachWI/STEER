@@ -1,0 +1,3 @@
+table,column,dataset_id,predicted_semantic_type
+soccer-germany-Players-2005-2006,column_14,soccer-germany-Players-2005-2006+column_14,redCards
+soccer-germany-Players-2013-2014,column_14,soccer-germany-Players-2013-2014+column_14,redCards

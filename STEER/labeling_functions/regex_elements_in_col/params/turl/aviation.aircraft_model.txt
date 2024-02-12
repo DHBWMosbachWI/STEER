@@ -1,0 +1,2 @@
+regexes = [Boeing\s[A-Za-z0-9]+, Antonov\s[A-Za-z0-9]+, Tupolev\s[A-Za-z0-9]+, Aero Synergie\s[A-Za-z0-9]+, Eurocopter\s[A-Za-z0-9]+, Cessna\s[A-Za-z0-9]+, Kamovs\s[A-Za-z0-9]+, Mil\s[A-Za-z0-9]+, MiG-[A-Za-z0-9]+]
+sem_type = aviation.aircraft_model

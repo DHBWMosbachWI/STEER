@@ -1,0 +1,2 @@
+regexes = [.*department of*, .*office of*]
+sem_type = name

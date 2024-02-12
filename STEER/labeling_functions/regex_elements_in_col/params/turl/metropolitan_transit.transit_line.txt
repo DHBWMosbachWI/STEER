@@ -1,0 +1,2 @@
+regexes = [.*Blue Line*, .*Red Line*, .*Silver Line*, .*Green Line*, .*Orange Line*, .*Black Line*, .*Line[0-9]*, .*Line [0-9]*]
+sem_type = metropolitan_transit.transit_line

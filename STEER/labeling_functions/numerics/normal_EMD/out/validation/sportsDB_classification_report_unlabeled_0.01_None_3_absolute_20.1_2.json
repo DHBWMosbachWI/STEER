@@ -1,0 +1,1 @@
+{"redCards": {"precision": 1.0, "recall": 1.0, "f1-score": 1.0, "support": 2}, "accuracy": 1.0, "macro avg": {"precision": 1.0, "recall": 1.0, "f1-score": 1.0, "support": 2}, "weighted avg": {"precision": 1.0, "recall": 1.0, "f1-score": 1.0, "support": 2}}

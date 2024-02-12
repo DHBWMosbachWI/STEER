@@ -1,0 +1,2 @@
+predefined_elements = [de, en, ar, fr, es, nl, ru, ja]
+sem_type = language
