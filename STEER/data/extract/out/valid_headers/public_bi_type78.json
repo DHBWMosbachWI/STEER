@@ -1,0 +1,4592 @@
+{
+    "CityMaxCapita_1": {
+        "column_1": {
+            "semanticType": "state"
+        },
+        "column_2": {
+            "semanticType": "city"
+        },
+        "column_10": {
+            "semanticType": "gender"
+        },
+        "column_14": {
+            "semanticType": "language"
+        },
+        "column_20": {
+            "semanticType": "region"
+        },
+        "column_22": {
+            "semanticType": "country"
+        },
+        "column_23": {
+            "semanticType": "state"
+        },
+        "column_29": {
+            "semanticType": "name"
+        },
+        "column_30": {
+            "semanticType": "name"
+        }
+    },
+    "CMSprovider_1": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "gender"
+        },
+        "column_16": {
+            "semanticType": "state"
+        },
+        "column_17": {
+            "semanticType": "address"
+        },
+        "column_18": {
+            "semanticType": "address"
+        },
+        "column_21": {
+            "semanticType": "service"
+        },
+        "column_22": {
+            "semanticType": "type"
+        }
+    },
+    "CMSprovider_2": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "gender"
+        },
+        "column_16": {
+            "semanticType": "state"
+        },
+        "column_17": {
+            "semanticType": "address"
+        },
+        "column_18": {
+            "semanticType": "address"
+        },
+        "column_21": {
+            "semanticType": "service"
+        },
+        "column_22": {
+            "semanticType": "type"
+        }
+    },
+    "CommonGovernment_1": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_10": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_11": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_12": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_13": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_2": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_3": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_4": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_5": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_6": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_7": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_8": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "CommonGovernment_9": {
+        "column_3": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "type"
+        },
+        "column_7": {
+            "semanticType": "code"
+        },
+        "column_8": {
+            "semanticType": "type"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "name"
+        },
+        "column_13": {
+            "semanticType": "type"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_22": {
+            "semanticType": "description"
+        },
+        "column_28": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "category"
+        },
+        "column_33": {
+            "semanticType": "category"
+        },
+        "column_34": {
+            "semanticType": "code"
+        },
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_41": {
+            "semanticType": "code"
+        },
+        "column_42": {
+            "semanticType": "description"
+        },
+        "column_43": {
+            "semanticType": "code"
+        },
+        "column_44": {
+            "semanticType": "description"
+        },
+        "column_49": {
+            "semanticType": "name"
+        },
+        "column_53": {
+            "semanticType": "name"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "Corporations_1": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_5": {
+            "semanticType": "continent"
+        },
+        "column_6": {
+            "semanticType": "country"
+        },
+        "column_16": {
+            "semanticType": "location"
+        },
+        "column_17": {
+            "semanticType": "description"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_20": {
+            "semanticType": "region"
+        },
+        "column_22": {
+            "semanticType": "description"
+        }
+    },
+    "Euro2016_1": {
+        "column_2": {
+            "semanticType": "language"
+        }
+    },
+    "HashTags_1": {
+        "column_1": {
+            "semanticType": "gender"
+        },
+        "column_4": {
+            "semanticType": "language"
+        },
+        "column_6": {
+            "semanticType": "name"
+        },
+        "column_7": {
+            "semanticType": "name"
+        },
+        "column_20": {
+            "semanticType": "type"
+        },
+        "column_29": {
+            "semanticType": "name"
+        },
+        "column_32": {
+            "semanticType": "language"
+        },
+        "column_37": {
+            "semanticType": "country"
+        },
+        "column_38": {
+            "semanticType": "code"
+        },
+        "column_39": {
+            "semanticType": "state"
+        },
+        "column_41": {
+            "semanticType": "city"
+        },
+        "column_42": {
+            "semanticType": "type"
+        },
+        "column_48": {
+            "semanticType": "description"
+        },
+        "column_55": {
+            "semanticType": "language"
+        },
+        "column_57": {
+            "semanticType": "location"
+        },
+        "column_58": {
+            "semanticType": "name"
+        },
+        "column_61": {
+            "semanticType": "name"
+        },
+        "column_62": {
+            "semanticType": "status"
+        }
+    },
+    "Hatred_1": {
+        "column_0": {
+            "semanticType": "city"
+        },
+        "column_10": {
+            "semanticType": "gender"
+        },
+        "column_15": {
+            "semanticType": "language"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "name"
+        },
+        "column_22": {
+            "semanticType": "region"
+        },
+        "column_23": {
+            "semanticType": "location"
+        },
+        "column_24": {
+            "semanticType": "state"
+        },
+        "column_25": {
+            "semanticType": "state"
+        },
+        "column_29": {
+            "semanticType": "name"
+        },
+        "column_30": {
+            "semanticType": "description"
+        }
+    },
+    "IGlocations1_1": {
+        "column_3": {
+            "semanticType": "city"
+        },
+        "column_4": {
+            "semanticType": "code"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "state"
+        }
+    },
+    "IGlocations2_1": {
+        "column_2": {
+            "semanticType": "city"
+        },
+        "column_3": {
+            "semanticType": "country"
+        },
+        "column_10": {
+            "semanticType": "type"
+        },
+        "column_12": {
+            "semanticType": "state"
+        },
+        "column_13": {
+            "semanticType": "state"
+        },
+        "column_14": {
+            "semanticType": "name"
+        }
+    },
+    "IGlocations2_2": {
+        "column_2": {
+            "semanticType": "city"
+        },
+        "column_3": {
+            "semanticType": "country"
+        },
+        "column_10": {
+            "semanticType": "type"
+        },
+        "column_12": {
+            "semanticType": "state"
+        },
+        "column_13": {
+            "semanticType": "state"
+        },
+        "column_14": {
+            "semanticType": "name"
+        }
+    },
+    "IUBLibrary_1": {
+        "column_0": {
+            "semanticType": "name"
+        },
+        "column_4": {
+            "semanticType": "class"
+        },
+        "column_8": {
+            "semanticType": "format"
+        },
+        "column_11": {
+            "semanticType": "type"
+        },
+        "column_12": {
+            "semanticType": "language"
+        },
+        "column_17": {
+            "semanticType": "year"
+        },
+        "column_23": {
+            "semanticType": "type"
+        }
+    },
+    "Medicare1_1": {
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_8": {
+            "semanticType": "name"
+        },
+        "column_10": {
+            "semanticType": "name"
+        },
+        "column_12": {
+            "semanticType": "city"
+        },
+        "column_13": {
+            "semanticType": "name"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_17": {
+            "semanticType": "description"
+        },
+        "column_20": {
+            "semanticType": "day"
+        },
+        "column_25": {
+            "semanticType": "day"
+        }
+    },
+    "Medicare1_2": {
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_8": {
+            "semanticType": "name"
+        },
+        "column_10": {
+            "semanticType": "name"
+        },
+        "column_12": {
+            "semanticType": "city"
+        },
+        "column_13": {
+            "semanticType": "name"
+        },
+        "column_14": {
+            "semanticType": "name"
+        },
+        "column_15": {
+            "semanticType": "state"
+        },
+        "column_17": {
+            "semanticType": "description"
+        },
+        "column_20": {
+            "semanticType": "day"
+        },
+        "column_25": {
+            "semanticType": "day"
+        }
+    },
+    "Medicare2_1": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "organisation"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Medicare2_2": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "organisation"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Medicare3_1": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_25": {
+            "semanticType": "type"
+        }
+    },
+    "MedPayment1_1": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "organisation"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "MedPayment2_1": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "organisation"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "MLB_1": {
+        "column_33": {
+            "semanticType": "name"
+        },
+        "column_37": {
+            "semanticType": "team"
+        },
+        "column_40": {
+            "semanticType": "teamName"
+        },
+        "column_45": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_10": {
+        "column_27": {
+            "semanticType": "name"
+        },
+        "column_29": {
+            "semanticType": "team"
+        },
+        "column_30": {
+            "semanticType": "position"
+        },
+        "column_32": {
+            "semanticType": "teamName"
+        },
+        "column_37": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_11": {
+        "column_27": {
+            "semanticType": "name"
+        },
+        "column_29": {
+            "semanticType": "team"
+        },
+        "column_30": {
+            "semanticType": "position"
+        },
+        "column_32": {
+            "semanticType": "teamName"
+        },
+        "column_37": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_12": {
+        "column_33": {
+            "semanticType": "name"
+        },
+        "column_37": {
+            "semanticType": "team"
+        },
+        "column_40": {
+            "semanticType": "teamName"
+        },
+        "column_45": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_13": {
+        "column_33": {
+            "semanticType": "name"
+        },
+        "column_37": {
+            "semanticType": "team"
+        },
+        "column_40": {
+            "semanticType": "teamName"
+        },
+        "column_45": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_14": {
+        "column_33": {
+            "semanticType": "name"
+        },
+        "column_37": {
+            "semanticType": "team"
+        },
+        "column_40": {
+            "semanticType": "teamName"
+        },
+        "column_45": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_15": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_57": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_60": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_16": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_57": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_60": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_17": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_57": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_60": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_18": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_57": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_60": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_19": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_2": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_4": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "name"
+        },
+        "column_6": {
+            "semanticType": "day"
+        },
+        "column_9": {
+            "semanticType": "team"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_22": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_20": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_21": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_22": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_51": {
+            "semanticType": "team"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_23": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_51": {
+            "semanticType": "team"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_24": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_51": {
+            "semanticType": "team"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_25": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "state"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_26": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "state"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_27": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "state"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_28": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "state"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_29": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "state"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_3": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_4": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "name"
+        },
+        "column_6": {
+            "semanticType": "day"
+        },
+        "column_9": {
+            "semanticType": "team"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_22": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_30": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "state"
+        },
+        "column_53": {
+            "semanticType": "teamName"
+        },
+        "column_58": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_31": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_32": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_33": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_34": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_35": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_36": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_37": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_50": {
+            "semanticType": "team"
+        },
+        "column_52": {
+            "semanticType": "teamName"
+        },
+        "column_57": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_38": {
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_38": {
+            "semanticType": "team"
+        },
+        "column_41": {
+            "semanticType": "teamName"
+        },
+        "column_46": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_39": {
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_38": {
+            "semanticType": "team"
+        },
+        "column_41": {
+            "semanticType": "teamName"
+        },
+        "column_46": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_4": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_4": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "name"
+        },
+        "column_6": {
+            "semanticType": "day"
+        },
+        "column_9": {
+            "semanticType": "team"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_22": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_40": {
+        "column_35": {
+            "semanticType": "name"
+        },
+        "column_38": {
+            "semanticType": "team"
+        },
+        "column_41": {
+            "semanticType": "teamName"
+        },
+        "column_46": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_41": {
+        "column_44": {
+            "semanticType": "type"
+        },
+        "column_45": {
+            "semanticType": "name"
+        },
+        "column_48": {
+            "semanticType": "team"
+        },
+        "column_50": {
+            "semanticType": "teamName"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_42": {
+        "column_44": {
+            "semanticType": "type"
+        },
+        "column_45": {
+            "semanticType": "name"
+        },
+        "column_48": {
+            "semanticType": "team"
+        },
+        "column_50": {
+            "semanticType": "teamName"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_43": {
+        "column_44": {
+            "semanticType": "type"
+        },
+        "column_45": {
+            "semanticType": "name"
+        },
+        "column_48": {
+            "semanticType": "team"
+        },
+        "column_50": {
+            "semanticType": "teamName"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_44": {
+        "column_44": {
+            "semanticType": "type"
+        },
+        "column_45": {
+            "semanticType": "name"
+        },
+        "column_48": {
+            "semanticType": "team"
+        },
+        "column_50": {
+            "semanticType": "teamName"
+        },
+        "column_55": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_45": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_46": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_47": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_48": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_49": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_51": {
+            "semanticType": "team"
+        },
+        "column_54": {
+            "semanticType": "teamName"
+        },
+        "column_59": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_5": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_5": {
+            "semanticType": "type"
+        },
+        "column_6": {
+            "semanticType": "name"
+        },
+        "column_8": {
+            "semanticType": "day"
+        },
+        "column_11": {
+            "semanticType": "day"
+        },
+        "column_12": {
+            "semanticType": "team"
+        },
+        "column_22": {
+            "semanticType": "name"
+        },
+        "column_27": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_50": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_51": {
+            "semanticType": "team"
+        },
+        "column_54": {
+            "semanticType": "teamName"
+        },
+        "column_59": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_51": {
+        "column_47": {
+            "semanticType": "name"
+        },
+        "column_51": {
+            "semanticType": "team"
+        },
+        "column_54": {
+            "semanticType": "teamName"
+        },
+        "column_59": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_52": {
+        "column_15": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_53": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_54": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_55": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_56": {
+        "column_52": {
+            "semanticType": "name"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "teamName"
+        },
+        "column_63": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_57": {
+        "column_22": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_58": {
+        "column_54": {
+            "semanticType": "name"
+        },
+        "column_57": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_59": {
+        "column_54": {
+            "semanticType": "name"
+        },
+        "column_57": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_6": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_5": {
+            "semanticType": "type"
+        },
+        "column_6": {
+            "semanticType": "name"
+        },
+        "column_8": {
+            "semanticType": "day"
+        },
+        "column_11": {
+            "semanticType": "day"
+        },
+        "column_12": {
+            "semanticType": "team"
+        },
+        "column_22": {
+            "semanticType": "name"
+        },
+        "column_27": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_60": {
+        "column_54": {
+            "semanticType": "name"
+        },
+        "column_57": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_61": {
+        "column_54": {
+            "semanticType": "name"
+        },
+        "column_57": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_62": {
+        "column_54": {
+            "semanticType": "name"
+        },
+        "column_57": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_65": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_63": {
+        "column_51": {
+            "semanticType": "name"
+        },
+        "column_52": {
+            "semanticType": "day"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_64": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_64": {
+        "column_51": {
+            "semanticType": "name"
+        },
+        "column_52": {
+            "semanticType": "day"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_64": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_65": {
+        "column_51": {
+            "semanticType": "name"
+        },
+        "column_52": {
+            "semanticType": "day"
+        },
+        "column_56": {
+            "semanticType": "team"
+        },
+        "column_58": {
+            "semanticType": "team"
+        },
+        "column_59": {
+            "semanticType": "teamName"
+        },
+        "column_64": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_66": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_5": {
+            "semanticType": "type"
+        },
+        "column_6": {
+            "semanticType": "name"
+        },
+        "column_8": {
+            "semanticType": "day"
+        },
+        "column_12": {
+            "semanticType": "day"
+        },
+        "column_13": {
+            "semanticType": "team"
+        },
+        "column_23": {
+            "semanticType": "name"
+        },
+        "column_24": {
+            "semanticType": "position"
+        },
+        "column_29": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_67": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_4": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "name"
+        },
+        "column_6": {
+            "semanticType": "day"
+        },
+        "column_9": {
+            "semanticType": "team"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_22": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_68": {
+        "column_1": {
+            "semanticType": "description"
+        },
+        "column_2": {
+            "semanticType": "team"
+        },
+        "column_5": {
+            "semanticType": "type"
+        },
+        "column_6": {
+            "semanticType": "name"
+        },
+        "column_8": {
+            "semanticType": "day"
+        },
+        "column_11": {
+            "semanticType": "day"
+        },
+        "column_12": {
+            "semanticType": "team"
+        },
+        "column_22": {
+            "semanticType": "name"
+        },
+        "column_27": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_7": {
+        "column_27": {
+            "semanticType": "name"
+        },
+        "column_29": {
+            "semanticType": "team"
+        },
+        "column_30": {
+            "semanticType": "position"
+        },
+        "column_32": {
+            "semanticType": "teamName"
+        },
+        "column_37": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_8": {
+        "column_27": {
+            "semanticType": "name"
+        },
+        "column_29": {
+            "semanticType": "team"
+        },
+        "column_30": {
+            "semanticType": "position"
+        },
+        "column_32": {
+            "semanticType": "teamName"
+        },
+        "column_37": {
+            "semanticType": "year"
+        }
+    },
+    "MLB_9": {
+        "column_27": {
+            "semanticType": "name"
+        },
+        "column_29": {
+            "semanticType": "team"
+        },
+        "column_30": {
+            "semanticType": "position"
+        },
+        "column_32": {
+            "semanticType": "teamName"
+        },
+        "column_37": {
+            "semanticType": "year"
+        }
+    },
+    "MulheresMil_1": {
+        "column_63": {
+            "semanticType": "sex"
+        }
+    },
+    "NYC_1": {
+        "column_0": {
+            "semanticType": "type"
+        },
+        "column_1": {
+            "semanticType": "name"
+        },
+        "column_2": {
+            "semanticType": "organisation"
+        },
+        "column_5": {
+            "semanticType": "name"
+        },
+        "column_7": {
+            "semanticType": "city"
+        },
+        "column_10": {
+            "semanticType": "type"
+        },
+        "column_16": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "name"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_26": {
+            "semanticType": "type"
+        },
+        "column_27": {
+            "semanticType": "location"
+        },
+        "column_31": {
+            "semanticType": "name"
+        },
+        "column_33": {
+            "semanticType": "description"
+        },
+        "column_35": {
+            "semanticType": "address"
+        },
+        "column_36": {
+            "semanticType": "city"
+        },
+        "column_37": {
+            "semanticType": "code"
+        },
+        "column_38": {
+            "semanticType": "name"
+        },
+        "column_42": {
+            "semanticType": "region"
+        },
+        "column_43": {
+            "semanticType": "state"
+        },
+        "column_46": {
+            "semanticType": "status"
+        }
+    },
+    "NYC_2": {
+        "column_0": {
+            "semanticType": "type"
+        },
+        "column_1": {
+            "semanticType": "name"
+        },
+        "column_2": {
+            "semanticType": "organisation"
+        },
+        "column_5": {
+            "semanticType": "name"
+        },
+        "column_7": {
+            "semanticType": "city"
+        },
+        "column_10": {
+            "semanticType": "type"
+        },
+        "column_16": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "name"
+        },
+        "column_20": {
+            "semanticType": "address"
+        },
+        "column_26": {
+            "semanticType": "type"
+        },
+        "column_27": {
+            "semanticType": "location"
+        },
+        "column_31": {
+            "semanticType": "name"
+        },
+        "column_33": {
+            "semanticType": "description"
+        },
+        "column_35": {
+            "semanticType": "address"
+        },
+        "column_36": {
+            "semanticType": "city"
+        },
+        "column_37": {
+            "semanticType": "code"
+        },
+        "column_38": {
+            "semanticType": "name"
+        },
+        "column_42": {
+            "semanticType": "region"
+        },
+        "column_43": {
+            "semanticType": "state"
+        },
+        "column_46": {
+            "semanticType": "status"
+        }
+    },
+    "PanCreactomy1_1": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_25": {
+            "semanticType": "type"
+        }
+    },
+    "PanCreactomy2_1": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_25": {
+            "semanticType": "type"
+        }
+    },
+    "PanCreactomy2_2": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_6": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_25": {
+            "semanticType": "type"
+        }
+    },
+    "Physicians_1": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_1": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_2": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_3": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_4": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_5": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_6": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_7": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Provider_8": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "RealEstate1_1": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_5": {
+            "semanticType": "duration"
+        },
+        "column_7": {
+            "semanticType": "location"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "region"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "code"
+        },
+        "column_16": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "year"
+        }
+    },
+    "RealEstate1_2": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_5": {
+            "semanticType": "duration"
+        },
+        "column_7": {
+            "semanticType": "location"
+        },
+        "column_11": {
+            "semanticType": "code"
+        },
+        "column_12": {
+            "semanticType": "region"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "code"
+        },
+        "column_16": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "year"
+        }
+    },
+    "RealEstate2_1": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "RealEstate2_2": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "RealEstate2_3": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "RealEstate2_4": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "RealEstate2_5": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "RealEstate2_6": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "RealEstate2_7": {
+        "column_0": {
+            "semanticType": "address"
+        },
+        "column_1": {
+            "semanticType": "address"
+        },
+        "column_2": {
+            "semanticType": "county"
+        },
+        "column_3": {
+            "semanticType": "county"
+        },
+        "column_6": {
+            "semanticType": "duration"
+        },
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "code"
+        },
+        "column_14": {
+            "semanticType": "region"
+        },
+        "column_15": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "type"
+        },
+        "column_18": {
+            "semanticType": "type"
+        },
+        "column_20": {
+            "semanticType": "city"
+        },
+        "column_26": {
+            "semanticType": "city"
+        }
+    },
+    "Redfin1_1": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin1_2": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin1_3": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin1_4": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin2_1": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin2_2": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin2_3": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_30": {
+            "semanticType": "duration"
+        },
+        "column_35": {
+            "semanticType": "type"
+        },
+        "column_36": {
+            "semanticType": "region"
+        },
+        "column_37": {
+            "semanticType": "type"
+        },
+        "column_41": {
+            "semanticType": "state"
+        },
+        "column_42": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin3_1": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_33": {
+            "semanticType": "duration"
+        },
+        "column_38": {
+            "semanticType": "type"
+        },
+        "column_39": {
+            "semanticType": "region"
+        },
+        "column_40": {
+            "semanticType": "type"
+        },
+        "column_44": {
+            "semanticType": "state"
+        },
+        "column_45": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin3_2": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_33": {
+            "semanticType": "duration"
+        },
+        "column_38": {
+            "semanticType": "type"
+        },
+        "column_39": {
+            "semanticType": "region"
+        },
+        "column_40": {
+            "semanticType": "type"
+        },
+        "column_44": {
+            "semanticType": "state"
+        },
+        "column_45": {
+            "semanticType": "code"
+        }
+    },
+    "Redfin4_1": {
+        "column_4": {
+            "semanticType": "city"
+        },
+        "column_34": {
+            "semanticType": "duration"
+        },
+        "column_39": {
+            "semanticType": "type"
+        },
+        "column_40": {
+            "semanticType": "region"
+        },
+        "column_41": {
+            "semanticType": "type"
+        },
+        "column_45": {
+            "semanticType": "state"
+        },
+        "column_46": {
+            "semanticType": "code"
+        }
+    },
+    "Romance_1": {
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_9": {
+            "semanticType": "collection"
+        }
+    },
+    "Romance_2": {
+        "column_8": {
+            "semanticType": "location"
+        },
+        "column_9": {
+            "semanticType": "collection"
+        }
+    },
+    "Taxpayer_1": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_10": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_2": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_3": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_4": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_5": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_6": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_7": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_8": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "Taxpayer_9": {
+        "column_6": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "description"
+        },
+        "column_12": {
+            "semanticType": "code"
+        },
+        "column_13": {
+            "semanticType": "city"
+        },
+        "column_14": {
+            "semanticType": "country"
+        },
+        "column_15": {
+            "semanticType": "name"
+        },
+        "column_16": {
+            "semanticType": "gender"
+        },
+        "column_17": {
+            "semanticType": "name"
+        },
+        "column_19": {
+            "semanticType": "state"
+        },
+        "column_24": {
+            "semanticType": "type"
+        }
+    },
+    "TrainsUK1_2": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "operator"
+        },
+        "column_8": {
+            "semanticType": "operator"
+        },
+        "column_11": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "location"
+        },
+        "column_15": {
+            "semanticType": "ranking"
+        },
+        "column_16": {
+            "semanticType": "location"
+        },
+        "column_17": {
+            "semanticType": "location"
+        },
+        "column_23": {
+            "semanticType": "description"
+        }
+    },
+    "TrainsUK1_3": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "operator"
+        },
+        "column_8": {
+            "semanticType": "operator"
+        },
+        "column_11": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "location"
+        },
+        "column_15": {
+            "semanticType": "ranking"
+        },
+        "column_16": {
+            "semanticType": "location"
+        },
+        "column_17": {
+            "semanticType": "location"
+        },
+        "column_23": {
+            "semanticType": "description"
+        }
+    },
+    "TrainsUK1_4": {
+        "column_5": {
+            "semanticType": "code"
+        },
+        "column_7": {
+            "semanticType": "operator"
+        },
+        "column_8": {
+            "semanticType": "operator"
+        },
+        "column_11": {
+            "semanticType": "location"
+        },
+        "column_12": {
+            "semanticType": "location"
+        },
+        "column_15": {
+            "semanticType": "ranking"
+        },
+        "column_16": {
+            "semanticType": "location"
+        },
+        "column_17": {
+            "semanticType": "location"
+        },
+        "column_23": {
+            "semanticType": "description"
+        }
+    },
+    "TrainsUK2_1": {
+        "column_2": {
+            "semanticType": "year"
+        },
+        "column_4": {
+            "semanticType": "operator"
+        },
+        "column_7": {
+            "semanticType": "city"
+        },
+        "column_10": {
+            "semanticType": "city"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "description"
+        }
+    },
+    "TrainsUK2_2": {
+        "column_2": {
+            "semanticType": "year"
+        },
+        "column_4": {
+            "semanticType": "operator"
+        },
+        "column_7": {
+            "semanticType": "city"
+        },
+        "column_10": {
+            "semanticType": "city"
+        },
+        "column_16": {
+            "semanticType": "code"
+        },
+        "column_17": {
+            "semanticType": "description"
+        }
+    },
+    "Wins_1": {
+        "column_151": {
+            "semanticType": "sex"
+        },
+        "column_182": {
+            "semanticType": "weight"
+        },
+        "column_230": {
+            "semanticType": "class"
+        },
+        "column_233": {
+            "semanticType": "name"
+        },
+        "column_234": {
+            "semanticType": "name"
+        },
+        "column_235": {
+            "semanticType": "class"
+        },
+        "column_237": {
+            "semanticType": "name"
+        },
+        "column_242": {
+            "semanticType": "owner"
+        }
+    },
+    "Wins_2": {
+        "column_460": {
+            "semanticType": "sex"
+        },
+        "column_529": {
+            "semanticType": "weight"
+        },
+        "column_584": {
+            "semanticType": "class"
+        },
+        "column_593": {
+            "semanticType": "name"
+        },
+        "column_594": {
+            "semanticType": "name"
+        },
+        "column_595": {
+            "semanticType": "name"
+        },
+        "column_596": {
+            "semanticType": "name"
+        },
+        "column_597": {
+            "semanticType": "class"
+        },
+        "column_604": {
+            "semanticType": "owner"
+        }
+    },
+    "Wins_3": {
+        "column_460": {
+            "semanticType": "sex"
+        },
+        "column_529": {
+            "semanticType": "weight"
+        },
+        "column_584": {
+            "semanticType": "class"
+        },
+        "column_593": {
+            "semanticType": "name"
+        },
+        "column_594": {
+            "semanticType": "name"
+        },
+        "column_595": {
+            "semanticType": "name"
+        },
+        "column_596": {
+            "semanticType": "name"
+        },
+        "column_597": {
+            "semanticType": "class"
+        },
+        "column_604": {
+            "semanticType": "owner"
+        }
+    },
+    "Wins_4": {
+        "column_460": {
+            "semanticType": "sex"
+        },
+        "column_529": {
+            "semanticType": "weight"
+        },
+        "column_584": {
+            "semanticType": "class"
+        },
+        "column_593": {
+            "semanticType": "name"
+        },
+        "column_594": {
+            "semanticType": "name"
+        },
+        "column_595": {
+            "semanticType": "name"
+        },
+        "column_596": {
+            "semanticType": "name"
+        },
+        "column_597": {
+            "semanticType": "class"
+        },
+        "column_604": {
+            "semanticType": "owner"
+        }
+    },
+    "YaleLanguages_1": {
+        "column_0": {
+            "semanticType": "year"
+        },
+        "column_1": {
+            "semanticType": "format"
+        },
+        "column_3": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "class"
+        },
+        "column_6": {
+            "semanticType": "class"
+        },
+        "column_7": {
+            "semanticType": "class"
+        },
+        "column_8": {
+            "semanticType": "class"
+        },
+        "column_9": {
+            "semanticType": "year"
+        },
+        "column_10": {
+            "semanticType": "range"
+        },
+        "column_11": {
+            "semanticType": "range"
+        },
+        "column_15": {
+            "semanticType": "language"
+        },
+        "column_20": {
+            "semanticType": "code"
+        },
+        "column_21": {
+            "semanticType": "description"
+        },
+        "column_24": {
+            "semanticType": "name"
+        },
+        "column_25": {
+            "semanticType": "type"
+        },
+        "column_26": {
+            "semanticType": "code"
+        }
+    },
+    "YaleLanguages_2": {
+        "column_0": {
+            "semanticType": "year"
+        },
+        "column_1": {
+            "semanticType": "format"
+        },
+        "column_3": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "class"
+        },
+        "column_6": {
+            "semanticType": "class"
+        },
+        "column_7": {
+            "semanticType": "class"
+        },
+        "column_8": {
+            "semanticType": "class"
+        },
+        "column_9": {
+            "semanticType": "year"
+        },
+        "column_10": {
+            "semanticType": "range"
+        },
+        "column_11": {
+            "semanticType": "range"
+        },
+        "column_15": {
+            "semanticType": "language"
+        },
+        "column_20": {
+            "semanticType": "code"
+        },
+        "column_21": {
+            "semanticType": "description"
+        },
+        "column_24": {
+            "semanticType": "name"
+        },
+        "column_25": {
+            "semanticType": "type"
+        },
+        "column_26": {
+            "semanticType": "code"
+        }
+    },
+    "YaleLanguages_3": {
+        "column_0": {
+            "semanticType": "year"
+        },
+        "column_1": {
+            "semanticType": "format"
+        },
+        "column_3": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "class"
+        },
+        "column_6": {
+            "semanticType": "class"
+        },
+        "column_7": {
+            "semanticType": "class"
+        },
+        "column_8": {
+            "semanticType": "class"
+        },
+        "column_9": {
+            "semanticType": "year"
+        },
+        "column_10": {
+            "semanticType": "range"
+        },
+        "column_11": {
+            "semanticType": "range"
+        },
+        "column_15": {
+            "semanticType": "language"
+        },
+        "column_20": {
+            "semanticType": "code"
+        },
+        "column_21": {
+            "semanticType": "description"
+        },
+        "column_24": {
+            "semanticType": "name"
+        },
+        "column_25": {
+            "semanticType": "type"
+        },
+        "column_26": {
+            "semanticType": "code"
+        }
+    },
+    "YaleLanguages_4": {
+        "column_0": {
+            "semanticType": "year"
+        },
+        "column_1": {
+            "semanticType": "format"
+        },
+        "column_3": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "class"
+        },
+        "column_6": {
+            "semanticType": "class"
+        },
+        "column_7": {
+            "semanticType": "class"
+        },
+        "column_8": {
+            "semanticType": "class"
+        },
+        "column_9": {
+            "semanticType": "year"
+        },
+        "column_10": {
+            "semanticType": "range"
+        },
+        "column_11": {
+            "semanticType": "range"
+        },
+        "column_15": {
+            "semanticType": "language"
+        },
+        "column_20": {
+            "semanticType": "code"
+        },
+        "column_21": {
+            "semanticType": "description"
+        },
+        "column_24": {
+            "semanticType": "name"
+        },
+        "column_25": {
+            "semanticType": "type"
+        },
+        "column_26": {
+            "semanticType": "code"
+        }
+    },
+    "YaleLanguages_5": {
+        "column_0": {
+            "semanticType": "year"
+        },
+        "column_1": {
+            "semanticType": "format"
+        },
+        "column_3": {
+            "semanticType": "type"
+        },
+        "column_5": {
+            "semanticType": "class"
+        },
+        "column_6": {
+            "semanticType": "class"
+        },
+        "column_7": {
+            "semanticType": "class"
+        },
+        "column_8": {
+            "semanticType": "class"
+        },
+        "column_9": {
+            "semanticType": "year"
+        },
+        "column_10": {
+            "semanticType": "range"
+        },
+        "column_11": {
+            "semanticType": "range"
+        },
+        "column_15": {
+            "semanticType": "language"
+        },
+        "column_20": {
+            "semanticType": "code"
+        },
+        "column_21": {
+            "semanticType": "description"
+        },
+        "column_24": {
+            "semanticType": "name"
+        },
+        "column_25": {
+            "semanticType": "type"
+        },
+        "column_26": {
+            "semanticType": "code"
+        }
+    }
+}

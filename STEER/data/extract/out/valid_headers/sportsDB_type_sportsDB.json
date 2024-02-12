@@ -1,0 +1,4331 @@
+{
+    "soccer-germany-Players-1997-1998": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2013-2014": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2014-2015": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1998-1999": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2015-2016": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2016-2017": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1999-2000": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2017-2018": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2018-2019": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2000-2001": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2019-2020": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2020-2021": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2001-2002": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2021-2022": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2012-2013": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2011-2012": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2000-2001": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2001-2002": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2002-2003": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2003-2004": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2004-2005": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2002-2003": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1990-1991": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2003-2004": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1991-1992": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1992-1993": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1993-1994": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1995-1996": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1996-1997": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-big5Leagues-Players-2005-2006": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-1994-1995": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2004-2005": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2005-2006": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2006-2007": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2007-2008": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2008-2009": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1990-1991": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2009-2010": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2010-2011": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2011-2012": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2012-2013": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2013-2014": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2014-2015": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2015-2016": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2016-2017": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2017-2018": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2018-2019": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2019-2020": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-germany-Players-2020-2021": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1992-1993": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1993-1994": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1994-1995": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1995-1996": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1996-1997": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1997-1998": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1998-1999": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-1999-2000": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2000-2001": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2001-2002": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2002-2003": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2003-2004": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2004-2005": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2005-2006": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2006-2007": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2007-2008": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2008-2009": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2009-2010": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2010-2011": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2011-2012": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2012-2013": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2013-2014": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2014-2015": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2015-2016": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2016-2017": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2017-2018": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2018-2019": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2019-2020": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    },
+    "soccer-italy-Players-2020-2021": {
+        "column_0": {
+            "semanticType": "player"
+        },
+        "column_1": {
+            "semanticType": "country"
+        },
+        "column_2": {
+            "semanticType": "position"
+        },
+        "column_3": {
+            "semanticType": "age"
+        },
+        "column_4": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_5": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_6": {
+            "semanticType": "minutesPlayed"
+        },
+        "column_7": {
+            "semanticType": "gamesPlayed"
+        },
+        "column_8": {
+            "semanticType": "goals"
+        },
+        "column_9": {
+            "semanticType": "assists"
+        },
+        "column_10": {
+            "semanticType": "goals"
+        },
+        "column_11": {
+            "semanticType": "penaltiesScored"
+        },
+        "column_12": {
+            "semanticType": "penaltiesAttempted"
+        },
+        "column_13": {
+            "semanticType": "yellowCards"
+        },
+        "column_14": {
+            "semanticType": "redCards"
+        },
+        "column_17": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_19": {
+            "semanticType": "goalsPlusAssistsPer90Min"
+        },
+        "column_20": {
+            "semanticType": "xGoalsPer90Min"
+        },
+        "column_21": {
+            "semanticType": "nonPenaltyXGoalsPer90Min"
+        },
+        "column_22": {
+            "semanticType": "xAssistsPer90Min"
+        },
+        "column_23": {
+            "semanticType": "nonPenaltyXGoalsPlusAssists"
+        },
+        "column_26": {
+            "semanticType": "xGoalsPlusAssistsPer90Min"
+        }
+    }
+}
