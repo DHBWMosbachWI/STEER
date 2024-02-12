@@ -1,0 +1,16 @@
+corpus_list = [public_bi_num]
+#init_matrix_path = matrix_co_W0_type78.npy
+mode = train
+#model_list = [CRF+LDA_pathL.pt]
+topic = num-directstr_thr-0_tn-400
+#pre_trained_sherlock_path = all_None_retrained.pt
+training_acc = False
+comment = publicbinum_retrain
+table_batch_size = 1
+#n_worker = 4
+MAX_COL_COUNT = 100
+#epochs = 50
+#fixed_sherlock_params = False
+train_percent = train100
+test_percent = test100
+#pretrained_CRF_model_path = model.pt

@@ -1,0 +1,14 @@
+corpus_list = [turl]
+#init_matrix_path = matrix_co_W0_type78.npy
+mode = eval
+#model_list = [CRF+LDA_retrain_publicbi_retrain_train80.pt]
+topic = num-directstr_thr-0_tn-400
+#pre_trained_sherlock_path = all_None_retrained.pt
+training_acc = False
+#comment = publicbi_validation_test20
+table_batch_size = 3
+#n_worker = 35
+MAX_COL_COUNT = 500
+train_percent = train100
+test_percent = test100
+#pretrained_CRF_model_path = CRF+LDA_pathL.pt

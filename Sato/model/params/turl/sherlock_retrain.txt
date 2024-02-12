@@ -1,0 +1,11 @@
+corpus_list = [turl]
+mode = retrain
+pretrain_model_path = all_None.pt
+comment = retrainTurl
+topic = num-directstr_thr-0_tn-400
+#batch_size = 105
+train_percent = train100
+test_percent = test100
+pretrained_typename = type78
+#epochs = 50
+n_worker = 35

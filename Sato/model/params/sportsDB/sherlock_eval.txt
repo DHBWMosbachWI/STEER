@@ -1,0 +1,8 @@
+corpus_list = [sportsDB]
+mode = eval
+model_list = [sherlock_None.pt, sherlock_None_retrained.pt, sherlock_None_retrained_cluster.pt]
+comment = testingPublicBI_retrainedSherlockTopic
+topic = num-directstr_thr-0_tn-400
+batch_size = 1
+train_percent = train100
+test_percent = test100

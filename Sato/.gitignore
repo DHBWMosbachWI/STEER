@@ -1,0 +1,10 @@
+*.pyc
+results/sherlock_log
+sherlock/pretrained/
+tmp/
+topic_model/LDA_cache/
+#model/pre_trained_CRF
+#model/pre_trained_sherlock
+extract/out/train_test_split/turl_type_turl.json
+extract/out/features/type_turl
+sven/out/

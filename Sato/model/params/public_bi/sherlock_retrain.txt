@@ -1,0 +1,8 @@
+corpus_list = [public_bi_benchmark]
+mode = retrain
+pretrain_model_path = all_None.pt
+comment = retrainPublicBITopic
+topic = num-directstr_thr-0_tn-400
+batch_size = 25
+train_percent = train100
+test_percent = test100
